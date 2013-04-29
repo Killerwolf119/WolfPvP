@@ -1,0 +1,13 @@
+name: Clans
+main: me.killerwolf.main.Clans
+version: 1.0
+description: WolfPVPcommands
+commands:
+   C:
+      description: Clans
+      usage: /c help
+   hello:
+      description: Hello
+      usage: /c hello
+
+  
